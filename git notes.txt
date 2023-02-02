@@ -1,0 +1,9 @@
+Clone
+	git clone https://gitlab.com/rdacosta/ansible.git
+	
+Show all branches
+	git branch -a
+	
+Swith branches
+	git switch training
+	

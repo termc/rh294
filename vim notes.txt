@@ -1,0 +1,12 @@
+Vim Notes
+----------
+
+View end of lines:
+	:set list
+		# to turn it off:
+			:set nolist
+
+Line numbers:
+	:set nu
+		Turn off with:
+			:set nonu
